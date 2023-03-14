@@ -8,4 +8,4 @@ for (const char of sentence) {
   }, timer)
   timer = timer + 50
  
-}
+};
